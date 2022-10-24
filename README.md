@@ -1,5 +1,5 @@
 # untitled
-
+use Vue to create a todoList. 
 ## Project setup
 ```
 npm install
